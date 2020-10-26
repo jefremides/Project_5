@@ -1,0 +1,186 @@
+Nation ,State ,County ,Place ,Latitude ,Longitude ,Elevation(meters) 
+United States of America,California,Alpine,Alpine Village,38.78,-119.82,1696
+United States of America,California,Alpine,Bear Valley,38.47,-120.05,2202
+United States of America,California,Alpine,Kirkwood,38.69,-120.06,2597
+United States of America,California,Alpine,Markleeville,38.69,-119.8,1730
+United States of America,California,Alpine,Markleeville,38.62,-119.8,0
+United States of America,California,Alpine,Mesa Vista,38.79,-119.81,1707
+United States of America,California,Glenn,Artois,39.63,-122.19,55
+United States of America,California,Glenn,Elk Creek,39.6,-122.54,239
+United States of America,California,Glenn,Hamilton City,39.74,-122.01,46
+United States of America,California,Glenn,Orland,39.75,-122.19,78
+United States of America,California,Glenn,Orland,39.7,-122.44,0
+United States of America,California,Glenn,Willows,39.52,-122.2,41
+United States of America,California,Glenn,Willows,39.49,-122.34,0
+United States of America,California,Del Norte,Bertsch-Oceanview,41.75,-124.16,10
+United States of America,California,Del Norte,Crescent City,41.75,-124.2,11
+United States of America,California,Del Norte,Crescent City,41.79,-124.26,0
+United States of America,California,Del Norte,Crescent City North,41.76,-124.21,18
+United States of America,California,Del Norte,Gasquet,41.84,-123.97,189
+United States of America,California,Del Norte,Hiouchi,41.79,-124.07,185
+United States of America,California,Del Norte,Klamath,41.53,-124.01,225
+United States of America,California,Del Norte,Klamath,41.57,-124.04,0
+United States of America,California,Del Norte,Smith River,41.92,-124.15,125
+United States of America,California,Del Norte,Smith River-Gasquet,41.74,-123.91,0
+United States of America,California,Colusa,Arbuckle,39.02,-122.06,42
+United States of America,California,Colusa,Central Colusa,39.13,-122.12,0
+United States of America,California,Colusa,College City,39.01,-122.01,11
+United States of America,California,Colusa,Colusa,39.21,-122.01,17
+United States of America,California,Colusa,East Colusa,39.18,-121.98,0
+United States of America,California,Colusa,Grimes,39.07,-121.9,12
+United States of America,California,Colusa,Lodoga,39.3,-122.51,367
+United States of America,California,Colusa,Maxwell,39.28,-122.19,26
+United States of America,California,Colusa,Princeton,39.4,-122.02,24
+United States of America,California,Colusa,Stonyford,39.37,-122.54,346
+United States of America,California,Colusa,West Colusa,39.21,-122.43,0
+United States of America,California,Colusa,Williams,39.15,-122.15,26
+United States of America,California,Calaveras,Angels,38.07,-120.55,529
+United States of America,California,Calaveras,Angels City,38.07,-120.55,485
+United States of America,California,Calaveras,Angels City,38.03,-120.61,0
+United States of America,California,Calaveras,Arnold,38.25,-120.35,1295
+United States of America,California,Calaveras,Arnold-West Point,38.37,-120.35,0
+United States of America,California,Calaveras,Avery,38.2,-120.37,1023
+United States of America,California,Calaveras,Copperopolis,37.94,-120.63,212
+United States of America,California,Calaveras,Dorrington,38.3,-120.27,1487
+United States of America,California,Calaveras,Forest Meadows,38.17,-120.4,1056
+United States of America,California,Calaveras,Mokelumne Hill,38.3,-120.71,449
+United States of America,California,Calaveras,Mountain Ranch,38.26,-120.51,731
+United States of America,California,Calaveras,Murphys,38.15,-120.45,721
+United States of America,California,Calaveras,Rail Road Flat,38.32,-120.51,824
+United States of America,California,Calaveras,Rancho Calaveras,38.12,-120.86,144
+United States of America,California,Calaveras,San Andreas,38.2,-120.68,302
+United States of America,California,Calaveras,San Andreas,38.19,-120.71,0
+United States of America,California,Calaveras,Vallecito,38.08,-120.46,542
+United States of America,California,Calaveras,Valley Springs,38.17,-120.83,198
+United States of America,California,Calaveras,Wallace,38.19,-120.96,98
+United States of America,California,Calaveras,West Point,38.4,-120.53,844
+United States of America,California,Mariposa,Bear Valley,37.57,-120.12,699
+United States of America,California,Mariposa,Bootjack,37.46,-119.88,663
+United States of America,California,Mariposa,Buck Meadows,37.81,-120.07,974
+United States of America,California,Mariposa,Catheys Valley,37.44,-120.09,418
+United States of America,California,Mariposa,Coulterville,37.67,-120.11,0
+United States of America,California,Mariposa,Coultervillle,37.71,-120.2,705
+United States of America,California,Mariposa,El Portal,37.67,-119.79,955
+United States of America,California,Mariposa,Fish Camp,37.48,-119.64,1644
+United States of America,California,Mariposa,Greeley Hill,37.76,-120.13,1042
+United States of America,California,Mariposa,Hornitos,37.5,-120.24,307
+United States of America,California,Mariposa,Lake Don Pedro,37.65,-120.34,314
+United States of America,California,Mariposa,Mariposa,37.49,-119.97,603
+United States of America,California,Mariposa,Mariposa,37.47,-120,0
+United States of America,California,Mariposa,Midpines,37.55,-119.95,1191
+United States of America,California,Mariposa,Wawona,37.55,-119.64,2141
+United States of America,California,Mariposa,Yosemite Valley,37.74,-119.58,1214
+United States of America,California,Mariposa,Yosemite Valley,37.7,-119.57,0
+United States of America,California,Lassen,Bieber,41.13,-121.13,1259
+United States of America,California,Lassen,Big Valley,40.91,-121.11,0
+United States of America,California,Lassen,Clear Creek,40.3,-121.05,1539
+United States of America,California,Lassen,Doyle,40.03,-120.12,1285
+United States of America,California,Lassen,Herlong,40.14,-120.14,1232
+United States of America,California,Lassen,Honey Lake,40.13,-120.15,0
+United States of America,California,Lassen,Janesville,40.28,-120.53,1301
+United States of America,California,Lassen,Johnstonville,40.38,-120.58,1263
+United States of America,California,Lassen,Litchfield,40.39,-120.38,1484
+United States of America,California,Lassen,Madeline Plains,40.85,-120.32,0
+United States of America,California,Lassen,Milford,40.16,-120.37,1234
+United States of America,California,Lassen,Nubieber,41.1,-121.18,1255
+United States of America,California,Lassen,Patton Village,40.14,-120.18,1228
+United States of America,California,Lassen,Spaulding,40.66,-120.79,1577
+United States of America,California,Lassen,Susanville,40.42,-120.65,1276
+United States of America,California,Lassen,Susanville,40.4,-120.55,0
+United States of America,California,Lassen,Westwood,40.31,-121,1558
+United States of America,California,Lassen,Westwood,40.5,-120.97,0
+United States of America,California,El Dorado,Auburn Lake Trails,38.89,-120.98,253
+United States of America,California,El Dorado,Cameron Park,38.68,-120.99,374
+United States of America,California,El Dorado,Camino,38.74,-120.68,961
+United States of America,California,El Dorado,Cold Springs,38.75,-120.88,487
+United States of America,California,El Dorado,Coloma,38.8,-120.89,506
+United States of America,California,El Dorado,Diamond Springs,38.69,-120.82,537
+United States of America,California,El Dorado,El Dorado Hills,38.69,-121.08,222
+United States of America,California,El Dorado,Georgetown,38.91,-120.83,819
+United States of America,California,El Dorado,Grizzly Flats,38.64,-120.54,1137
+United States of America,California,El Dorado,North El Dorado,38.85,-120.6,0
+United States of America,California,El Dorado,Placerville,38.73,-120.8,581
+United States of America,California,El Dorado,Placerville,38.74,-120.79,0
+United States of America,California,El Dorado,Pollock Pines,38.76,-120.58,1206
+United States of America,California,El Dorado,Shingle Springs,38.67,-120.93,477
+United States of America,California,El Dorado,South El Dorado,38.66,-120.57,0
+United States of America,California,El Dorado,South Lake Tahoe,38.93,-119.98,1905
+United States of America,California,El Dorado,South Lake Tahoe,38.91,-120.03,0
+United States of America,California,El Dorado,Tahoma,39.06,-120.14,2074
+United States of America,California,Amador,Amador City,38.42,-120.82,288
+United States of America,California,Amador,Buckhorn,38.45,-120.54,937
+United States of America,California,Amador,Buena Vista,38.3,-120.92,120
+United States of America,California,Amador,Camanche North Shore,38.24,-120.95,115
+United States of America,California,Amador,Camanche Village,38.27,-120.99,74
+United States of America,California,Amador,Drytown,38.44,-120.86,260
+United States of America,California,Amador,Fiddletown,38.51,-120.76,550
+United States of America,California,Amador,Ione,38.35,-120.94,94
+United States of America,California,Amador,Ione,38.35,-120.94,0
+United States of America,California,Amador,Jackson,38.35,-120.77,380
+United States of America,California,Amador,Jackson,38.33,-120.79,0
+United States of America,California,Amador,Kirkwood,38.69,-120.06,2597
+United States of America,California,Amador,Martell,38.36,-120.8,468
+United States of America,California,Amador,Pine Grove,38.41,-120.66,600
+United States of America,California,Amador,Pine Grove-Silver Lake,38.5,-120.33,0
+United States of America,California,Amador,Pioneer,38.44,-120.58,858
+United States of America,California,Amador,Plymouth,38.48,-120.85,323
+United States of America,California,Amador,Red Corral,38.41,-120.61,699
+United States of America,California,Amador,River Pines,38.55,-120.75,575
+United States of America,California,Amador,Sutter Creek,38.39,-120.8,452
+United States of America,California,Amador,Sutter Creek-Plymouth,38.47,-120.79,0
+United States of America,California,Amador,Volcano,38.45,-120.63,798
+United States of America,California,Kings,Armona,36.31,-119.71,72
+United States of America,California,Kings,Avenal,36.05,-120.1,310
+United States of America,California,Kings,Avenal,35.9,-120.08,0
+United States of America,California,Kings,Corcoran,36.08,-119.56,62
+United States of America,California,Kings,Corcoran,36.1,-119.57,0
+United States of America,California,Kings,Grangeville,36.34,-119.71,75
+United States of America,California,Kings,Hanford,36.33,-119.65,76
+United States of America,California,Kings,Hanford,36.25,-119.63,0
+United States of America,California,Kings,Hanford Northeast,36.39,-119.6,0
+United States of America,California,Kings,Hardwick,36.4,-119.72,76
+United States of America,California,Kings,Home Garden,36.3,-119.63,75
+United States of America,California,Kings,Kettleman City,36.01,-119.96,77
+United States of America,California,Kings,Lemoore,36.3,-119.79,69
+United States of America,California,Kings,Lemoore,36.32,-119.86,0
+United States of America,California,Kings,Lemoore Station,36.26,-119.89,68
+United States of America,California,Kings,Stratford,36.19,-119.82,62
+United States of America,California,Kings,Stratford,36.01,-119.79,0
+United States of America,California,Modoc,Adin,41.2,-120.95,1456
+United States of America,California,Modoc,Adin-Lookout,41.31,-121.18,0
+United States of America,California,Modoc,Alturas,41.49,-120.55,1332
+United States of America,California,Modoc,Alturas,41.64,-120.69,0
+United States of America,California,Modoc,California Pines,41.41,-120.66,1343
+United States of America,California,Modoc,Canby,41.45,-120.88,1355
+United States of America,California,Modoc,Cedarville,41.53,-120.17,1446
+United States of America,California,Modoc,Daphnedale Park,41.51,-120.55,1357
+United States of America,California,Modoc,Eagleville,41.32,-120.11,1413
+United States of America,California,Modoc,Fort Bidwell,41.86,-120.16,1605
+United States of America,California,Modoc,Lake City,41.65,-120.23,1373
+United States of America,California,Modoc,Likely,41.23,-120.5,1345
+United States of America,California,Modoc,Lookout,41.21,-121.15,1268
+United States of America,California,Modoc,New Pine Creek,41.99,-120.3,1446
+United States of America,California,Modoc,Newell,41.89,-121.37,1229
+United States of America,California,Modoc,Newell,41.71,-121.32,0
+United States of America,California,Modoc,Surprise Valley,41.58,-120.1,0
+United States of America,California,Madera,Ahwahnee,37.37,-119.72,970
+United States of America,California,Madera,Bass Lake,37.33,-119.57,1208
+United States of America,California,Madera,Bonadelle Ranchos-Madera Ranchos,36.93,-119.89,104
+United States of America,California,Madera,Chowchilla,37.12,-120.26,72
+United States of America,California,Madera,Chowchilla,37.08,-120.25,0
+United States of America,California,Madera,Coarsegold,37.25,-119.7,971
+United States of America,California,Madera,Fairmead,37.08,-120.2,81
+United States of America,California,Madera,La Vina,36.88,-120.11,73
+United States of America,California,Madera,Madera,36.96,-120.07,81
+United States of America,California,Madera,Madera,37.04,-119.98,0
+United States of America,California,Madera,Madera Acres,37.01,-120.08,83
+United States of America,California,Madera,Madera Southeast,36.88,-119.99,0
+United States of America,California,Madera,Madera West,36.92,-120.35,0
+United States of America,California,Madera,Nipinnawasee,37.4,-119.73,1130
+United States of America,California,Madera,Oakhurst,37.33,-119.65,689
+United States of America,California,Madera,Oakhurst-North Fork,37.42,-119.42,0
+United States of America,California,Madera,Parksdale,36.94,-120.02,83
+United States of America,California,Madera,Parkwood,36.93,-120.05,80
+United States of America,California,Madera,Rolling Hills,36.9,-119.8,118
+United States of America,California,Madera,Yosemite Lakes,37.18,-119.77,390
+United States of America,California,Madera,Yosemite Lakes,37.21,-119.82,0
