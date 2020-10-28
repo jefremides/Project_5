@@ -3,7 +3,8 @@
 
 <br>
 
-### DSIR - 82410/30/2020
+### DSIR - 824
+#### 10/30/2020
 #### Instructors:  Jeff Hale, Jacob Koehler
 ##### TAs:  Jobeth Muncy, Sara Soueidan, Bibor Szabo
   
