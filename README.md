@@ -1,4 +1,4 @@
-# California Wildfires............  
+# California Wildfires: Measuring Economic Impact 
 
 
 <br>
@@ -6,13 +6,13 @@
 ### DSIR - 824
 #### 10/30/2020
 #### Instructors:  Jeff Hale, Jacob Koehler
-##### TAs:  Jobeth Muncy, Sara Soueidan, Bibor Szabo
+##### TAs:  Jobeth Muncy, Sara Soueidan, Bibor Szabo, Chuck D
   
 <br>
 
 ### Authors:
 
-- Claire Hester [Github](https://git.generalassemb.ly/__________) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
+- Claire Hester [Github](https://github.com/clairepetersen) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
 - Sean Cleary [Github](https://github.com/jefremides) | [LinkedIn](https://linkedin.com/in/____________)
 - Jerry Efremides [Github](https://git.generalassemb.ly/jefremides) | [LinkedIn](https://linkedin.com/in/jerry-efremides)
 
@@ -20,7 +20,7 @@
 
 ## Problem Statement
 
-"Measuring the (socio?)-economic impact of forest fires in California over the next 5 years" and we can talk about the growing cost of fire suppression, growing insurance costs, and a snapshot of the emotional costs through sentiment analysis
+Catastrophic wildfires in California have sweeping impacts: environmental costs, poor air quality, carbon emissions, homes lost, large numbers of people displaced, and suppression costs, to name a few. Our goal is to build a convincing argument for the redirection of funds to catastrophic wildfire prevention. For this project, we will be focusing on three factors and will set out to predict acres burned, fire suppression costs, and structures destroyed over the next 10 years.
 
 <br>
 
@@ -29,13 +29,36 @@
 
 <br>
 
+## Tableau Visualization
+[California Wildfires, 2014-2019](https://public.tableau.com/profile/claire.hester#!/vizhome/CAWildfireMap2014-2019/CAWildfireMap)
+
+## Data Dictionary
+
+|Feature|Type|Dataset|Description| 
+|---|---|---|---| 
+|Incident Number|object|fires_compiled|Assigned incident number| 
+|Incident Name|object|fires_compiled|Name of fire| 
+|Incident Type|object|fires_compiled|Coded Incident type| 
+|Latitude|int64|fires_compiled|Latitude of the incident's point of origin| 
+|Longitude|int64|fires_compiled|Longitude of the incident's point of origin|
+|Size|float64|fires_compiled|The size of the incident|
+|Unit of Measure|object|fires_compiled|Unit of Measure, related to Size|
+|Costs|float64|fires_compiled|Associated costs, cost of fire suppression (in the case of wildfire)|
+|Structures Destroyed|int64|fires_compiled|Total number of structures destroyed|
+|Fire Name|object|fires_compiled|Incident Name field in all caps that will match the Fire Name field in the shapefile|
+|start_date|object|fires_compiled|Start date of incident|
+|year|int64|fires_compiled|Year of incident|
+|county|object|fires_compiled|County that aligns with the origins latitude and longitude|
+
 ## Data Sources & Information
 
 ###### Wildfire:
 
 https://cal-adapt.org/tools/wildfire/
 https://www.fire.ca.gov/
-
+https://fam.nwcg.gov/fam-web/
+https://www.fire.ca.gov/incidents/2020/
+https://searchworks.stanford.edu/view/xj043rd8767
 
 
 ###### Economic:
@@ -48,17 +71,20 @@ http://www.dof.ca.gov/Forecasting/Economics/Economic_and_Revenue_Updates/index.h
 https://www.census.gov/data/data-tools.html
 http://www.insurance.ca.gov/01-consumers/120-company/04-mrktshare/
 
+
 ##### Social Media:
 
 https://developer.twitter.com/
-
-
 
 
 ##### Geospacial:
 
 https://www.firelab.org/project/fsim-wildfire-risk-simulation-software
 https://cal-adapt.org/tools/wildfire/
+
+##### Coding Tips and Tricks:
+https://pypi.org/project/uszipcode/
+https://stackoverflow.com/questions/12608788/changing-the-tick-frequency-on-x-or-y-axis-in-matplotlib/12608937
 
 
 ##### Additional Citations:
