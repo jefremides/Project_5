@@ -44,10 +44,18 @@ We used an ensemble time series model that combined Naive Seasonal and Holt Wint
 
 ## Contents
 - 01 Data Collection
+- - claire_data
+- - jerry_data
+- - twitter
 - 02 Data Cleaning
+- - claire_data_cleaning.ipynb
 - 03 Exploratory Data Analysis
+- - claire_eda_fire_data.ipynb
+- - jerry_data_cleaning_eda.ipynb
 - 04 Modeling
+- - claire_time_series_models.ipynb
 - 05 Presentation
+- - Project 5.pdf
 
 ## Data Dictionary
 
