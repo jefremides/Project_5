@@ -10,7 +10,7 @@
   
 <br>
 
-### Authors:
+## Authors:
 
 - Claire Hester [Github](https://git.generalassemb.ly/__________) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
 - Sean Cleary [Github](https://github.com/jefremides) | [LinkedIn](https://linkedin.com/in/____________)
@@ -75,7 +75,6 @@ https://news.mongabay.com/2020/09/off-the-chart-co2-from-california-fires-dwarf-
 <br>
 
 ##### Image Attribution:
-
 
 <br>
 
