@@ -26,6 +26,11 @@ Catastrophic wildfires in California have sweeping impacts: environmental costs,
 
 ## Executive Summary
 
+California is home to the 10 costliest wildfires in US history.  Since 2012, not a month has gone by without a fire burning in a California forest.  To date, the CO2 emmissions from fires burned alone may exceed the entire C02 emmissions of the entire transportation industry and are estimated to exceed three times the CO2 emmissions the state's energy producers will produce to power the entire state.  
+
+Human activity is the main cause for the increase in catostrophic wildfires and it comes in two flavors:  Climate change and the shift from forest restoration to fire supression.  Around the 1900s, the government and forest service began to look at every tree as a tax payer asset.  As a result, perscribed burns were stopped, leading to the overgrwoing of dense, thick, forestry around the state and increasing the "fuel" for widlfires.  More intense fires and longer fire seasons have increased the desctruction and cost of these wildfires, and measuring the full economic toll poses a real challenge.
+
+After gathering data from a wide variety of sources and perspectives, we were faced with many questions and assumptions about how to quantify the economic impact, but ended up focusing on the cost of supression, and insurance damages.   
 
 
 <br>
