@@ -32,6 +32,8 @@ Catastrophic wildfires in California have sweeping impacts: environmental costs,
 ## Tableau Visualization
 [California Wildfires, 2014-2019](https://public.tableau.com/profile/claire.hester#!/vizhome/CAWildfireMap2014-2019/CAWildfireMap)
 
+<br>
+
 ## Data Dictionary
 
 |Feature|Type|Dataset|Description| 
@@ -49,6 +51,10 @@ Catastrophic wildfires in California have sweeping impacts: environmental costs,
 |start_date|object|fires_compiled|Start date of incident|
 |year|int64|fires_compiled|Year of incident|
 |county|object|fires_compiled|County that aligns with the origins latitude and longitude|
+|year|int64|acres_clean|Years ranging from 1950-2020|
+|acres_burned|float64|acres_clean|Acres burned per year|
+
+<br>
 
 ## Data Sources & Information
 
