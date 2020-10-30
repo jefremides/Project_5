@@ -13,7 +13,7 @@
 ## Authors:
 
 - Claire Hester [Github](https://github.com/clairepetersen) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
-- Sean Cleary [Github](https://github.com/jefremides) | [LinkedIn](https://linkedin.com/in/____________)
+- Sean Cleary [Github](https://github.com/scleary2) 
 - Jerry Efremides [Github](https://git.generalassemb.ly/jefremides) | [LinkedIn](https://linkedin.com/in/jerry-efremides)
 
 <br>
@@ -25,6 +25,7 @@ Catastrophic wildfires in California have sweeping impacts: environmental costs,
 <br>
 
 ## Executive Summary
+
 
 
 <br>
@@ -104,11 +105,6 @@ https://www.nature.org/content/dam/tnc/nature/en/documents/TNC_Pathways_2020vf.p
 https://www.nytimes.com/2019/08/20/climate/fire-insurance-renewal.html
 https://news.mongabay.com/2020/09/off-the-chart-co2-from-california-fires-dwarf-states-fossil-fuel-emissions/
 
-<br>
-
-##### Image Attribution:
-
-<br>
 
 ## Conclusions:
 
