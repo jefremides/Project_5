@@ -30,7 +30,9 @@ California is home to the 10 costliest wildfires in US history.  Since 2012, not
 
 Human activity is the main cause for the increase in catostrophic wildfires and it comes in two flavors:  Climate change and the shift from forest restoration to fire supression.  Around the 1900s, the government and forest service began to look at every tree as a tax payer asset.  As a result, perscribed burns were stopped, leading to the overgrwoing of dense, thick, forestry around the state and increasing the "fuel" for widlfires.  More intense fires and longer fire seasons have increased the desctruction and cost of these wildfires, and measuring the full economic toll poses a real challenge.
 
-After gathering data from a wide variety of sources and perspectives, we were faced with many questions and assumptions about how to quantify the economic impact, but ended up focusing on the cost of supression, and insurance damages.   
+After gathering data from a wide variety of sources and perspectives, we were faced with many questions and assumptions about how to quantify the economic impact, but ended up focusing on the cost of supression, and insurance damages.   We explored burn areas (visualized through Tableau, next section) as well as insurance losses in the Exploratory Data Analysis section.
+
+We used an ensemble time series model that combined Naive Seasonal and Holt Winters models to forecast acres burned over the next 10 years. This model is solely based on acreage and does not include environmental factors, which we believe would have led to a more robust (though much more complicated) model, which we will leave to climate scientists for now. We believe we make a convincing argument that redirecting costs to fire prevention will save \\$16 billion in public funds over the next 10 years.
 
 
 <br>
@@ -39,6 +41,13 @@ After gathering data from a wide variety of sources and perspectives, we were fa
 [California Wildfires, 2014-2019](https://public.tableau.com/profile/claire.hester#!/vizhome/CAWildfireMap2014-2019/CAWildfireMap)
 
 <br>
+
+## Contents
+- 01 Data Collection
+- 02 Data Cleaning
+- 03 Exploratory Data Analysis
+- 04 Modeling
+- 05 Presentation
 
 ## Data Dictionary
 
@@ -59,6 +68,24 @@ After gathering data from a wide variety of sources and perspectives, we were fa
 |county|object|fires_compiled|County that aligns with the origins latitude and longitude|
 |year|int64|acres_clean|Years ranging from 1950-2020|
 |acres_burned|float64|acres_clean|Acres burned per year|
+
+<br>
+
+## Conclusions:
+
+To conclude, we used an ensemble time series model to predict that over the next 10 years, nearly 13 million acres will burn, which will lead to 61,000 structures destroyed and fire suppression costs of almost \\$40 billion. As it currently stands, there are 10 million acres of forest that are considered "high risk"[Source](https://www.thehour.com/news/article/Restoring-California-s-forests-to-reduce-wildfire-15643753.php). At a forest restoration cost of \\$2350 per acre, we believe that if funds were allocated to forest restoration we would see an overall savings of \\$16 billion in public funds over the next 10 years.
+
+<br>
+
+
+## Areas for Further Study:
+
+There is so much more that we should have liked to explore here. A few of our ideas include:
+- An assessment of social and mental health through social media and NLP
+- A deep dive into the environmental factors that cause and amplify catastrophic wildfires
+- An investigation into carbon emissions and other pollutants due to wildfires
+- A deeper look at the effect of catastrophic wildfires on ecosystems, including water reservoirs and water supply
+- An exploration of the increase in home building in the Wilderness-Urban Interface, which leads to displacement and home loss during wildfires
 
 <br>
 
@@ -110,6 +137,4 @@ https://www.nature.org/content/dam/tnc/nature/en/documents/TNC_Pathways_2020vf.p
 https://www.nytimes.com/2019/08/20/climate/fire-insurance-renewal.html
 https://news.mongabay.com/2020/09/off-the-chart-co2-from-california-fires-dwarf-states-fossil-fuel-emissions/
 
-
-## Conclusions:
 
