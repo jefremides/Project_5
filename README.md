@@ -44,18 +44,18 @@ We used an ensemble time series model that combined Naive Seasonal and Holt Wint
 
 ## Contents
 - 01 Data Collection
-- - claire_data
-- - jerry_data
-- - twitter
+ - claire_data
+ - jerry_data
+ - twitter
 - 02 Data Cleaning
-- - claire_data_cleaning.ipynb
+ - claire_data_cleaning.ipynb
 - 03 Exploratory Data Analysis
-- - claire_eda_fire_data.ipynb
-- - jerry_data_cleaning_eda.ipynb
+ - claire_eda_fire_data.ipynb
+ - jerry_data_cleaning_eda.ipynb
 - 04 Modeling
-- - claire_time_series_models.ipynb
+ - claire_time_series_models.ipynb
 - 05 Presentation
-- - Project 5.pdf
+ - Project 5.pdf
 
 ## Data Dictionary
 
@@ -81,7 +81,7 @@ We used an ensemble time series model that combined Naive Seasonal and Holt Wint
 
 ## Conclusions:
 
-To conclude, we used an ensemble time series model to predict that over the next 10 years, nearly 13 million acres will burn, which will lead to 61,000 structures destroyed and fire suppression costs of almost \\$40 billion. As it currently stands, there are 10 million acres of forest that are considered "high risk"[Source](https://www.thehour.com/news/article/Restoring-California-s-forests-to-reduce-wildfire-15643753.php). At a forest restoration cost of \\$2350 per acre, we believe that if funds were allocated to forest restoration we would see an overall savings of \\$16 billion in public funds over the next 10 years.
+To conclude, we used an ensemble time series model to predict that over the next 10 years, nearly 13 million acres will burn, which will lead to 61,000 structures destroyed and fire suppression costs of almost \$40 billion. As it currently stands, there are 10 million acres of forest that are considered "high risk"[Source](https://www.thehour.com/news/article/Restoring-California-s-forests-to-reduce-wildfire-15643753.php). At a forest restoration cost of \\$2350 per acre, we believe that if funds were allocated to forest restoration we would see an overall savings of \$16 billion in public funds over the next 10 years.
 
 <br>
 
