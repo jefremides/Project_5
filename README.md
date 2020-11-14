@@ -12,7 +12,7 @@
 
 ## Authors:
 
-- Claire Hester [Github](https://github.com/clairepetersen) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
+- Claire Hester [Github](https://github.com/clairehester) | [LinkedIn](https://linkedin.com/in/claire-petersen-hester)
 - Sean Cleary [Github](https://github.com/scleary2) 
 - Jerry Efremides [Github](https://git.generalassemb.ly/jefremides) | [LinkedIn](https://linkedin.com/in/jerry-efremides)
 
